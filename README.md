@@ -1,3 +1,4 @@
 TODO
 
-[testlink](Games/Checkers/checkers_html/index.html)
+[Checkers]
+[Checkers Auto-Play](Games/Checkers/checkers_html/index.html#playing)
