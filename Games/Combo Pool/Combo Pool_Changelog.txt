@@ -1,0 +1,4 @@
+numbers shows by default
+changed instructions
+lowered speed of rotation
+added highscores

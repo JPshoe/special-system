@@ -1,0 +1,6 @@
+Freed the cursor
+Switched X and O
+easier deselect
+removed settings from pause menu
+accurate info box when exiting pause menu using X
+awards on title

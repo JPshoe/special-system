@@ -1,0 +1,4 @@
+changed to 60fps
+saves highscore
+stopped negative distance bug
+added cap to score

@@ -1,0 +1,7 @@
+Changed title
+removed reset data menu option
+removed qr code
+slowed menu 'breathing'
+removed pulsing circles
+tiles can no longer be depressed
+blocks take longer to shine

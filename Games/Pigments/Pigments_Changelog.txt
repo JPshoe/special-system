@@ -1,0 +1,4 @@
+changed save data location
+discs only move when you do
+stopped flashing text
+added waiting

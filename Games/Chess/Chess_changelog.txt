@@ -1,0 +1,15 @@
+removed useless parameter from drawarrow function
+draw the board flipped
+switched buttons
+game no longer crashes when promotion to bishop = stalemate
+dead positions
+removed logo
+can't empassant yourself
+color adjustment
+blindness
+deterministic
+menus
+levels
+stars
+general menu polish
+difficulty levels

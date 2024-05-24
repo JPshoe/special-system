@@ -1,0 +1,4 @@
+Changed 'Minefield' to Minesweeper
+Removed option to clear data
+Made X clear and O flag (Swapped)
+First click empty

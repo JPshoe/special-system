@@ -1,0 +1,8 @@
+slowed breathing
+normal difficulty title
+removed reset data menu option
+removed qr code
+made bottom right say level #
+tiles can no longer be depressed
+blocks take longer to shine
+changed title
